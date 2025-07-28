@@ -16,3 +16,6 @@ For our case, we used the best EMA one as this is what we consider to be most st
 After that, we can continually run the cells until the very end as there will no longer be any prompts required to be interacted with by the user.
 
 As for the ones who would prefer to choose another dataset, they may modify the class numbers, class names, as well as the import at the start of the notebook.
+
+The dataset used (VisDrone Dataset) can be found below:
+https://www.kaggle.com/datasets/banuprasadb/visdrone-dataset/data
